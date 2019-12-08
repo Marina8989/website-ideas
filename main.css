@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main-container {
+    padding: 20px 30px;
+}
+
+nav {
+    display: flex;
+}
+
+.header {
+    height: 70px;
+    width: 70%;
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    margin: 32px 80px;
+    font-size: 20px;
+}
+
+nav a:hover {
+    color: orange;
+}
+
+.logo {
+    margin: 15px 98px;
+}
+
+.big-image {
+    text-align: center;
+    margin-top: 70px;
+}
+
+.about {
+    text-align: center;
+    margin: 40px 200px;
+}
+
+.flex {
+    display: flex;
+    margin-top: 30px;
+    width: 94%;
+}
+
+.flex-div {
+    width: 25%;
+    margin: 0 auto;
+}
+
+.section-one {
+    padding: 30px 0;
+    background: grey;
+    color: white;
+}
+
+footer {
+    padding: 50px;
+}
+
+footer p {
+    text-align: center;
+}
+
+span {
+    color: tomato;
+}
